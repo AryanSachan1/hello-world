@@ -1,2 +1,5 @@
 # hello-world
-1st repository
+This is My 1st repository
+
+Hi Everyone!
+It's Aryan Here...
